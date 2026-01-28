@@ -113,6 +113,8 @@ If you found this repository helpful
 Feel free to fork, star, and contribute!
 
 ## Repository Structure
+
+```bash
 LangChain-Hands-on-Code-from-Scratch/
 │
 ├── 2_chatmodels/
